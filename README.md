@@ -38,9 +38,22 @@ This project is a full-stack clone of the popular accommodation booking platform
 |Listing Detailed View	| Complete property details with images and booking form|
 |Simple Checkout View	|Streamlined payment and booking confirmation|
 
+### color styles
+- **Primary color** :#34967C;
+- **Secondary color** : #161117;
+- **Background**: #FFFFFF;
+- **Text**: #222222;
+- **Secondary text**:#FFA800;
+
+  ### Typography
+  - **Primary Font**: Source Sans Pro,Medium(500),Quicksand,
+  - **Headings**: Source sans Pro, Bold(600), 94px.
+  - **Secondary Text**: Quicksand, Bold(400) 17px.
+## Importance of identifying design properties of a mock up design
+Identifying design properties of a mockup ensures consistency, enhances user experience,and aligns the design with the brand's identity and accessibility standards.
+
 ## Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
-
 
 
 
