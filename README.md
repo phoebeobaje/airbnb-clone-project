@@ -45,7 +45,7 @@ This project is a full-stack clone of the popular accommodation booking platform
 - **Text**: #222222;
 - **Secondary text**:#FFA800;
 
-  ### Typography
+### Typography
   - **Primary Font**: Source Sans Pro,Medium(500),Quicksand,
   - **Headings**: Source sans Pro, Bold(600), 94px.
   - **Secondary Text**: Quicksand, Bold(400) 17px.
